@@ -1,0 +1,742 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new list of all the members of this present Parliament vvith the respective counties and places for which they serve. VVith the names of the members of the severall committees, and places where they sit, for regulating the abuses of the Commonwealth. Note that all committees have power to send for persons, papers, witnesses, and records, and examine witnesses upon oath as they shall see cause, and where the petitions shall not bee made good, to allow costs.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89979</idno>
+            <idno type="STC">Wing N653</idno>
+            <idno type="STC">Thomason 669.f.17[57]</idno>
+            <idno type="STC">ESTC R211708</idno>
+            <idno type="EEBO-CITATION">99870414</idno>
+            <idno type="PROQUEST">99870414</idno>
+            <idno type="VID">163305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163305)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new list of all the members of this present Parliament vvith the respective counties and places for which they serve. VVith the names of the members of the severall committees, and places where they sit, for regulating the abuses of the Commonwealth. Note that all committees have power to send for persons, papers, witnesses, and records, and examine witnesses upon oath as they shall see cause, and where the petitions shall not bee made good, to allow costs.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob ye 6: 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163305:1" rendition="simple:additions"/>
+            <head>A New Liſt of all the Members of this preſent Parliament; VVith the Reſpective Counties and places for which they ſerve. VVith the Names of the Members of the ſeverall Committees, and places where they ſit, for Regulating the Abuſes of the Commonwealth.</head>
+            <p>Note that all Committees have Power to ſend for Perſons, Papers, Witneſſes, and Records, and examine Witneſſes upon Oath as they ſhall ſee cauſe, and where the Petitions ſhall not bee made good, to allow Coſts.</p>
+            <div type="list_of_members_of_parliament">
+               <head>A Liſt of the Names of the Parliament-Men.</head>
+               <list>
+                  <item>Berks.
+<list>
+                        <item>SAmuel Dunch</item>
+                        <item>Vincent Goddard</item>
+                        <item>Thomas Wood</item>
+                     </list>
+                  </item>
+                  <item>Bedford.<list>
+                        <item>Nathanael Taylor</item>
+                        <item>Edward Cater</item>
+                     </list>
+                  </item>
+                  <item>Buckingham.<list>
+                        <item>George Fleetwood</item>
+                        <item>George Baldwin</item>
+                     </list>
+                  </item>
+                  <item>Cambridge.<list>
+                        <item>John Sadler</item>
+                        <item>Thomas French</item>
+                        <item>Robert Caſtle</item>
+                        <item>Samuel Warner</item>
+                     </list>
+                  </item>
+                  <item>Cheſter<list>
+                        <item>Robert Duckenfield</item>
+                        <item>Henry Birkinhead</item>
+                     </list>
+                  </item>
+                  <item>Four Northern Counties<list>
+                        <item>Charles Howard</item>
+                        <item>Robert Fenwick</item>
+                        <item>Henry Dawſon</item>
+                        <item>Henry Ogle</item>
+                     </list>
+                  </item>
+                  <item>Cornwal<list>
+                        <item>Robert Bennet</item>
+                        <item>Francis Langdon</item>
+                        <item>Anthony Rous</item>
+                        <item>John Bawden</item>
+                     </list>
+                  </item>
+                  <item>Derby<list>
+                        <item>Jervas Bennet</item>
+                        <item>Nathanael Barron</item>
+                     </list>
+                  </item>
+                  <item>Devon<list>
+                        <item>
+                           <hi>George Monk,</hi> one of the Generals at Sea.</item>
+                        <item>John Carew</item>
+                        <item>Thomas Sanders</item>
+                        <item>Chriſtopher Martin</item>
+                        <item>James Eriſey</item>
+                        <item>Francis Rous</item>
+                        <item>Richard Sweet</item>
+                     </list>
+                  </item>
+                  <item>Dorſet<list>
+                        <item>William Sydenham</item>
+                        <item>John Bingham</item>
+                     </list>
+                  </item>
+                  <item>Eſſex<list>
+                        <item>Joachim Matthews</item>
+                        <item>Henry Barington</item>
+                        <item>John Brewſter</item>
+                        <item>Chriſtopher Earle</item>
+                        <item>Dudley Templer</item>
+                     </list>
+                  </item>
+                  <item>Gloceſter<list>
+                        <item>Iohn Creſts</item>
+                        <item>William Neaſt</item>
+                        <item>Robert Holmes</item>
+                     </list>
+                  </item>
+                  <item>Southampton<list>
+                        <item>Richard Norton</item>
+                        <item>Richard Major</item>
+                        <item>Iohn Hildeſley</item>
+                     </list>
+                  </item>
+                  <item>Hertford<list>
+                        <item>Henry Lawrence</item>
+                        <item>William Reeve</item>
+                     </list>
+                  </item>
+                  <item>Hereford<list>
+                        <item>Wroth R<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gers</item>
+                        <item>John Herring</item>
+                     </list>
+                  </item>
+                  <item>Huntington<list>
+                        <item>Edward Montague</item>
+                        <item>Stephen Pheſaunt</item>
+                     </list>
+                  </item>
+                  <item>Kent<list>
+                        <item>Lord Viſcount <hi>Liſle</hi>
+                        </item>
+                        <item>Thomas Blount</item>
+                        <item>William Kenrick</item>
+                        <item>William Cullen</item>
+                        <item>Andrew Broughton</item>
+                     </list>
+                  </item>
+                  <item>Lancaſter<list>
+                        <item>William Weſt</item>
+                        <item>John <gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>awrey</item>
+                        <item>Robert Cunliff</item>
+                     </list>
+                  </item>
+                  <item>Leiceſter<list>
+                        <item>Henry Danvers</item>
+                        <item>Edward Smith</item>
+                        <item>John Prat</item>
+                     </list>
+                  </item>
+                  <item>Lincoln<list>
+                        <item>Sir Will. Brownlow</item>
+                        <item>Richard Cuſt</item>
+                        <item>Barnaby Bowtel</item>
+                        <item>Humphrey Walcot</item>
+                        <item>William Thompſon</item>
+                     </list>
+                  </item>
+                  <item>Mildleſex<list>
+                        <item>Sir William Roberts</item>
+                        <item>Auguſtine Wingfield</item>
+                        <item>Arthur Squib</item>
+                     </list>
+                  </item>
+                  <item>Monmouth<list>
+                        <item>Philip Jones</item>
+                     </list>
+                  </item>
+                  <item>Northampton<list>
+                        <item>Sir Gilbert Pickering</item>
+                        <item>Thomas Brook</item>
+                     </list>
+                  </item>
+                  <item>Norfolk<list>
+                        <item>Robert Jermy</item>
+                        <item>Tobias Freere</item>
+                        <item>Ralph Wolmer</item>
+                        <item>Henry King</item>
+                        <item>William Burton</item>
+                     </list>
+                  </item>
+                  <item>Nottingham<list>
+                        <item>John Oddingſels</item>
+                        <item>Edward Clud</item>
+                     </list>
+                  </item>
+                  <item>Oxon<list>
+                        <item>Sir Charles Wolſley</item>
+                        <item>William Draper</item>
+                        <item>Dr. Jonathan Goddard</item>
+                     </list>
+                  </item>
+                  <item>Rutland<list>
+                        <item>Edward Horſeman</item>
+                     </list>
+                  </item>
+                  <item>Salop<list>
+                        <item>William Botterel</item>
+                        <item>Thomas Baker</item>
+                     </list>
+                  </item>
+                  <item>Stafford<list>
+                        <item>George Bellit</item>
+                        <item>John Chetwood</item>
+                     </list>
+                  </item>
+                  <item>Suffolk<list>
+                        <item>Jacob Caley</item>
+                        <item>Francis Brewſter</item>
+                        <item>Robert Dunkon</item>
+                        <item>John Clark</item>
+                        <item>Edward Plumſtead</item>
+                     </list>
+                  </item>
+                  <item>Somerſet<list>
+                        <item>
+                           <hi>Robert Blake</hi> one of the Generals Sea.</item>
+                        <item>John Pine</item>
+                        <item>Dennis Holliſter</item>
+                        <item>Henry Henly</item>
+                     </list>
+                  </item>
+                  <item>Surrey<list>
+                        <item>Samuel Highland</item>
+                        <item>Lawrence March</item>
+                     </list>
+                  </item>
+                  <item>Suſſex<list>
+                        <item>Anthony Stapeley</item>
+                        <item>William Spence</item>
+                        <item>Nathaniel, Studely</item>
+                     </list>
+                  </item>
+                  <item>Warwick<list>
+                        <item>John St. Nicholas</item>
+                        <item>Richard Lucy</item>
+                     </list>
+                  </item>
+                  <item>Wilts<list>
+                        <item>Sir Anthony Aſhley-Cooper</item>
+                        <item>Nicholas Green</item>
+                        <item>Thomas Eyre</item>
+                     </list>
+                  </item>
+                  <item>Worceſter<list>
+                        <item>Richard Salway</item>
+                        <item>John James</item>
+                     </list>
+                  </item>
+                  <item>Yorke<list>
+                        <item>George Lord Eyre</item>
+                        <item>Walter Strickland</item>
+                        <item>Francis Laſſels</item>
+                        <item>John Anlaby</item>
+                        <item>Thomas Dickenſon</item>
+                        <item>Thomas St Nicholas</item>
+                        <item>Roger Coats</item>
+                        <item>Edward Gill</item>
+                     </list>
+                  </item>
+                  <item>London<list>
+                        <item>Robert Tichborn</item>
+                        <item>John Ireton</item>
+                        <item>Samuel Moyer</item>
+                        <item>John Langley</item>
+                        <item>John Srone</item>
+                        <item>Henry Barton</item>
+                        <item>Praiſe-God Barbone</item>
+                     </list>
+                  </item>
+                  <item>Wales<list>
+                        <item>Buſhy Manſel</item>
+                        <item>James Philips</item>
+                        <item>John Williams</item>
+                        <item>Hugh Courtney</item>
+                        <item>Richard Price</item>
+                        <item>John Brown</item>
+                     </list>
+                  </item>
+                  <item>Scotland<list>
+                        <item>Sir James Hope</item>
+                        <item>Alexander Bredy</item>
+                        <item>John Swinton</item>
+                        <item>William Lockart</item>
+                        <item>Alexander Jefferies</item>
+                     </list>
+                  </item>
+                  <item>Ireland<list>
+                        <item>Sir Robert King</item>
+                        <item>Col. John Hewſon</item>
+                        <item>Col Henry Cromwel</item>
+                        <item>Col. John Clarke</item>
+                        <item>Daniel Hutchinſon</item>
+                        <item>
+                           <hi>Vincent Gookyn.</hi> called in by the Parlia<g ref="char:EOLhyphen"/>ment ſince they ſate.</item>
+                        <item>Lord General <hi>Cromwel</hi>
+                        </item>
+                        <item>Major Gen <hi>Lambert</hi>
+                        </item>
+                        <item>Major Gen. <hi>Harriſon</hi>
+                        </item>
+                        <item>Maj Gen. <hi>Desborough</hi>
+                        </item>
+                        <item>Col. Mat. Tomlinſon</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Councel of State.</head>
+                  <item>Lord General <hi>Cromwel</hi>
+                  </item>
+                  <item>Major Gen. <hi>Lambert</hi>
+                  </item>
+                  <item>Major Gen <hi>Harriſon</hi>
+                  </item>
+                  <item>Maj Gen. <hi>Desborough</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Gibert Pickering</item>
+                  <item>Col. Tomlinſon</item>
+                  <item>Col. Bennet</item>
+                  <item>Col. Stapely</item>
+                  <item>Col. Sidnam</item>
+                  <item>Col. Jones</item>
+                  <item>Mr Jo. Carew</item>
+                  <item>M. Walt. Strickland</item>
+                  <item>Mr. Moyer</item>
+                  <item>Major Salloway</item>
+                  <item>Sir Ant. Aſh. Cooper</item>
+                  <item>Sir Charles Wolſley</item>
+                  <item>Sir James Hope</item>
+                  <item>Lieu. Gen Fleetwood</item>
+                  <item>Mr. Broughton</item>
+                  <item>Col. Hewſon</item>
+                  <item>Alderman Tichborne</item>
+                  <item>Col. Norton</item>
+                  <item>Mr. Lawrence</item>
+                  <item>Mr. Courtney</item>
+                  <item>Mr. Major</item>
+                  <item>Mr. Howard</item>
+                  <item>Col. Montague</item>
+                  <item>Mr. St. Nicholas</item>
+                  <item>Mr. Williams</item>
+                  <item>Mr. Holſten.</item>
+               </list>
+            </div>
+            <div type="committees">
+               <p>
+                  <list>
+                     <head>A Committee for the affairs of Scotland.</head>
+                     <item>LOrd Gen. Cromwel</item>
+                     <item>Maj. Gen. Lambert</item>
+                     <item>Major General Harriſon</item>
+                     <item>Alderman Titchborn</item>
+                     <item>Captain Charls Howard</item>
+                     <item>Mr. Alexander Jefferies</item>
+                     <item>Mr. Henry Henly</item>
+                     <item>Mr. Danvers</item>
+                     <item>Major Thomas Sanders</item>
+                     <item>Mr. Nathaniel Tailor</item>
+                     <item>Mr. John Sawrey</item>
+                     <item>Mr. Robert Fenwick</item>
+                     <item>Mr. John Odenſels</item>
+                     <item>Mr. John St. Nicholas</item>
+                     <item>Mr. Nathanael Studley.</item>
+                  </list>
+The Quorum ſeven, and to
+ſit in the Houſe commonly called <hi>The Lords Houſe.</hi>
+               </p>
+               <p>
+                  <list>
+                     <head>A Committee for the af<g ref="char:EOLhyphen"/>faires of Ireland.</head>
+                     <item>Lord Gen. Cromwell</item>
+                     <item>Maj. Gen. Lambert.</item>
+                     <item>Sir Robert King</item>
+                     <item>Mr. Spence</item>
+                     <item>Col. Cromwel</item>
+                     <item>Mr. Frere</item>
+                     <item>Col. Hewſon</item>
+                     <item>Col. Hutchinſon</item>
+                     <item>Col. Clark</item>
+                     <item>Mr. Manſel</item>
+                     <item>Mr. Gookin</item>
+                     <item>Mr. Clark</item>
+                     <item>Col. Weſt</item>
+                     <item>Col. Phillip Jones</item>
+                     <item>Mr. Francis Brewſter.</item>
+                  </list>
+The Quorum or any five to meet in the Lords houſe.</p>
+               <p>
+                  <list>
+                     <head>A Committee for diſcovery of Bribery, fraud, breach of publick Truſt, and pub<g ref="char:EOLhyphen"/>lique Debts.</head>
+                     <item>Sir Gilbert Pickering</item>
+                     <item>Mr. Strickland</item>
+                     <item>Col. Bingham</item>
+                     <item>Mr. Sadler</item>
+                     <item>Col. Duckenfield</item>
+                     <item>Col. Kenrick</item>
+                     <item>Col. Montague</item>
+                     <item>George Lo. Evre</item>
+                     <item>Mr. Wil. Reeve</item>
+                     <item>Mr. Bowtell</item>
+                     <item>Mr. Hildeſ<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ey</item>
+                     <item>Mr. Caſſell</item>
+                     <item>Mr. Laſſells.</item>
+                  </list>
+Or any five of them, to ſit in the Dutchy Court.</p>
+               <p>
+                  <list>
+                     <head>A Committee for the Army.</head>
+                     <item>Col. Sidenham</item>
+                     <item>Mr. William Lockart</item>
+                     <item>Col. Norton</item>
+                     <item>Col. Clark,</item>
+                     <item>Mr. Will. Lockart</item>
+                     <item>Mr. Wolmer</item>
+                     <item>Col. Pine</item>
+                     <item>Mr. Lucy</item>
+                     <item>Col. Weſt</item>
+                     <item>Mr. Cuſt</item>
+                     <item>Mr. Horſeman</item>
+                     <item>Mr. Clud</item>
+                     <item>Mr. Fleetwood</item>
+                     <item>Mr. Neaſt</item>
+                     <item>Col. Bennet</item>
+                     <item>Mr. Anlaby.</item>
+                  </list>
+Quorum five.</p>
+               <p>
+                  <list>
+                     <head>A Committee for the Law</head>
+                     <item>Sir Antho. Aſhley Cooper</item>
+                     <item>Sir Wil: Roberts</item>
+                     <item>Sir Wil. Brownlow</item>
+                     <item>Maj. Gen. Desborough</item>
+                     <item>Col. Matth. Tomlinſon</item>
+                     <item>Mr. Sadler</item>
+                     <item>Col. Blount</item>
+                     <item>M. Jo. Brewſter</item>
+                     <item>M. Taylor</item>
+                     <item>M. Jervas Bennet</item>
+                     <item>Mr. Gill</item>
+                     <item>M. King</item>
+                     <item>M. Swinton.</item>
+                     <item>M. Nath. Barton</item>
+                     <item>M. Coates</item>
+                     <item>Mr. Wingfield</item>
+                     <item>Mr. Spence</item>
+                     <item>M. Moyer.</item>
+                     <item>Col. W<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt.</item>
+                  </list>
+Quorum 5. To ſit in the Chequer Chamber.</p>
+               <p>
+                  <list>
+                     <head>A Committee to conſider of the Treaſury.</head>
+                     <item>Maj. Gen. Harriſon</item>
+                     <item>Mr. Squib</item>
+                     <item>Col. Bennet</item>
+                     <item>Col. James.</item>
+                     <item>Col. Blount</item>
+                     <item>Mr. Wolmer</item>
+                     <item>Mr. Jacob Caley</item>
+                     <item>Mr. Cunliffe</item>
+                     <item>Mr. Birkinhead</item>
+                     <item>Mr. Stone</item>
+                     <item>Mr. Botterel</item>
+                     <item>Major Bawden</item>
+                     <item>Mr. Barington</item>
+                     <item>Alderm. Ireton</item>
+                     <item>Mr. Moyer</item>
+                     <item>Mr. Hildeſley</item>
+                     <item>Sir Wil. Roberts</item>
+                     <item>Mr. Anlaby</item>
+                     <item>Mr. Thomſon</item>
+                     <item>Col. Weſt</item>
+                     <item>Mr. Taylor</item>
+                     <item>Mr. Hutchingſon</item>
+                     <item>Sir wil. Brownlow</item>
+                  </list>
+Or any five of them, to
+ſit in the Court of Wards.</p>
+               <p>And this Committee have likewiſe power to conſider how the monies comming into the ſeveral Treaſuries of the Commonwealth may be brought into one Treaſury, and a conſtant Account may be had there<g ref="char:EOLhyphen"/>of, and how all perſons who have received any of the Treaſure, or monies of the Commonwealth may be called to account, and to coufer with any perſons whom they ſhall think fit, and conſider of any other matter which may conduce to the advancement, and beſt managing of the Trea<g ref="char:EOLhyphen"/>ſure of the Commonwealth with power to ſend for Perſons, Papers, and Re<g ref="char:EOLhyphen"/>cords. And to conſider of the multitude of Officers, and their Sallaries.</p>
+               <p>
+                  <list>
+                     <head>A Committee for advance<g ref="char:EOLhyphen"/>ment of Learning.</head>
+                     <item>Mr. Strickland</item>
+                     <item>Mr. Sadler</item>
+                     <item>Mr. Lawrence</item>
+                     <item>Mr. Wingfield</item>
+                     <item>Dr. Goddard</item>
+                     <item>Col. Barton</item>
+                     <item>Mr. Spence</item>
+                     <item>Sir Anth. Aſhley-Cooper</item>
+                     <item>Col. Sidenham</item>
+                     <item>Ald<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rm. Tichburn</item>
+                     <item>Col. Montague</item>
+                     <item>Mr. Lockart</item>
+                     <item>Sir. Robert King</item>
+                     <item>Col. Blount</item>
+                     <item>Sir Wil. Roberts</item>
+                     <item>Mr. John St. Nicholas</item>
+                     <item>Col. Matthewes</item>
+                     <item>Mr. Cuſt.</item>
+                  </list>
+The Quorum to be five and to meete in the Dutchy Chamber.</p>
+               <p>
+                  <list>
+                     <head>A Committee for Tythes.</head>
+                     <item>Major Gen. Harriſon</item>
+                     <item>Mr. Sadler</item>
+                     <item>Sir Antho. Aſhley Cooper</item>
+                     <item>Col. Barton</item>
+                     <item>Praiſegod Barbone</item>
+                     <item>Col. Blount</item>
+                     <item>Mr. Highland</item>
+                     <item>Alder. Titchburn</item>
+                     <item>Maj. Generall Desborough</item>
+                     <item>Col. Clark</item>
+                     <item>Mr. Strickland</item>
+                     <item>Col. Sidenham</item>
+                     <item>Col: Danvers</item>
+                     <item>Sir Wil. Roberts</item>
+                     <item>Mr. Jefferies</item>
+                     <item>Mr. Spence</item>
+                     <item>Mr. Squib</item>
+                     <item>Mr. Wolmer</item>
+                     <item>Mr. Weſt</item>
+                     <item>Col. Kenrick</item>
+                     <item>Mr. Freer</item>
+                     <item>Capt. Stone</item>
+                     <item>Mr. Taylor</item>
+                     <item>Mr. Wingfield</item>
+                     <item>Col. Rous</item>
+                     <item>Mr. Moyer</item>
+                     <item>Major Horſeman</item>
+                     <item>Mr. Plumſtead</item>
+                     <item>Mr. Herring</item>
+                     <item>Mr. Courtney</item>
+                     <item>Mr. Gill</item>
+                     <item>Mr Swinton</item>
+                  </list>
+And the care hereof in committed to M. Sadler, M. Taylor, and Col. Weſt to ſit in the Chequer Chamber.</p>
+               <p>This Committee hath power to puniſh ſcanda<g ref="char:EOLhyphen"/>lus Miniſters, and to prefer godly Miniſters in their places.</p>
+               <p>
+                  <list>
+                     <head>A Committee for the poor, and regulating Commiſſions of Peace; for Alms-houſes, and for Printing.</head>
+                     <item>Mr. Baldwyn</item>
+                     <item>Mr. Ogle</item>
+                     <item>Mr. Chetwood</item>
+                     <item>Maj. Sanders</item>
+                     <item>Mr. Wood</item>
+                     <item>Mr. Draper</item>
+                     <item>Mr. Langdon</item>
+                     <item>Mr. Thomas St. Nicholas.</item>
+                     <item>Mr. Brook</item>
+                     <item>Mr. Cater</item>
+                     <item>Mr. Green</item>
+                     <item>Mr. Bennet</item>
+                     <item>Mr. Barton</item>
+                     <item>Mr. Barrington</item>
+                     <item>Mr. Tompſon</item>
+                  </list>
+And all that come, to have voices to ſit in the Queens Court.</p>
+               <p>
+                  <list>
+                     <head>A Committee for receiving Petitions.</head>
+                     <item>Col. Rous</item>
+                     <item>Mr. Dunch</item>
+                     <item>Alderman Treton</item>
+                     <item>Mr. Barbone</item>
+                     <item>Dr. Goddard</item>
+                     <item>Mr. Crofts</item>
+                     <item>Mr. Henry Barton</item>
+                     <item>Mr. Freer</item>
+                     <item>Mr. Earle</item>
+                     <item>Mr. Jermy</item>
+                     <item>Mr. Matthews</item>
+                     <item>Mr. Hildeſley</item>
+                     <item>Mr. Eriſley</item>
+                  </list>
+Or any five of them, to
+ſit in the Painted Chamber.</p>
+               <p>This Committee are to conſider of ſuch Pe<g ref="char:EOLhyphen"/>titions as are directed to the Parliament, and to preſent ſuch of them onely to the Parlia<g ref="char:EOLhyphen"/>ment, as are proper to the Legiſlative Power, or not receivable elſe<g ref="char:EOLhyphen"/>where, with power to
+ſend for perſons, pa<g ref="char:EOLhyphen"/>pers, witneſſes, and re<g ref="char:EOLhyphen"/>cords; And this Com<g ref="char:EOLhyphen"/>mittee have power up<g ref="char:EOLhyphen"/>on
+ſuch Petitions as concerne private per<g ref="char:EOLhyphen"/>ſons, and ſhall be jud<g ref="char:EOLhyphen"/>ged by them fit to bee preſented to the Houſe, as it is before directed to examine witneſſes upon oath, if they ſee cauſe, and ſtate the matter of fact, and re<g ref="char:EOLhyphen"/>port it to the Parlia<g ref="char:EOLhyphen"/>ment, and in ſuch caſes as the Petition ſhall not bee made good be<g ref="char:EOLhyphen"/>before them, they are to ſtate the caſe to the Houſe with their opi<g ref="char:EOLhyphen"/>nion touching coſt, to be given in ſuch caſe to the perſons unjuſtly moleſted.</p>
+               <p>It is Ordered by this Committee (for their more regular and certaine proceedings) That for ſuch Petiti<g ref="char:EOLhyphen"/>ons as ſhall concerne private perſons, the Petitioners doe put the Words and Matter of their Petitions into particulars, upon which they would have their Witneſſes examined. And at the day ap<g ref="char:EOLhyphen"/>pointed for the hear<g ref="char:EOLhyphen"/>ing and examining of the whole Matter, they are to ſet downe their Witneſſes names in the Margent of each particular; Upon which they deſire to have them examin<g ref="char:EOLhyphen"/>ed.</p>
+               <p>
+                  <list>
+                     <head>A Committee for Priſons and priſoners.</head>
+                     <item>Mr. Anlaby</item>
+                     <item>Mr. March</item>
+                     <item>Col. James</item>
+                     <item>Mr. Price</item>
+                     <item>Mr. Highland</item>
+                     <item>Mr. Herring</item>
+                     <item>Mr. Bellit</item>
+                     <item>Mr. Brown</item>
+                     <item>Mr. Williams</item>
+                     <item>Mr. Wingfield</item>
+                     <item>Mr. Rogers</item>
+                     <item>Mr. Cullen</item>
+                     <item>Mr. Prat</item>
+                     <item>Mr. Vin. Goddard</item>
+                  </list>
+And any five of them, to
+ſit in the Chequer Chamber</p>
+               <p>
+                  <list>
+                     <head>A Committee for the buſineſs of Trade, Corporations, and for receiving Propoſitions for advance of the Com<g ref="char:EOLhyphen"/>mon Wealth.</head>
+                     <item>M. Sam. Warner</item>
+                     <item>M. Sweet</item>
+                     <item>M. Ald. Ireton</item>
+                     <item>Mr. Hutchinſon</item>
+                     <item>Mr. Dickenſon</item>
+                     <item>Mr. Dawſon</item>
+                     <item>Mr. Stone</item>
+                     <item>Mr. Wood</item>
+                     <item>Mr. Jefferies</item>
+                     <item>Mr. French</item>
+                     <item>Mr. Templer</item>
+                     <item>Mr. Plumſtede</item>
+                     <item>Mr. Dunkon</item>
+                     <item>Mr. Clarke</item>
+                     <item>Mr. Moyer</item>
+                     <item>Col. Bennet</item>
+                     <item>Mr. Holmes</item>
+                     <item>Mr. Coates</item>
+                     <item>Mr. Barton.</item>
+                  </list>
+Or any ſeven of them, to
+ſit at Whitehall, in the old Councel Chamber.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Robert Ibbitſon.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
